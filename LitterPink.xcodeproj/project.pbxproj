@@ -16,6 +16,7 @@
 		C906FB612573606800028339 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C906FB5F2573606800028339 /* LaunchScreen.storyboard */; };
 		C906FB6C2573606800028339 /* LitterPinkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C906FB6B2573606800028339 /* LitterPinkTests.swift */; };
 		C906FB772573606800028339 /* LitterPinkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C906FB762573606800028339 /* LitterPinkUITests.swift */; };
+		C906FB882573651D00028339 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C906FB872573651D00028339 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C906FB722573606800028339 /* LitterPinkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LitterPinkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C906FB762573606800028339 /* LitterPinkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LitterPinkUITests.swift; sourceTree = "<group>"; };
 		C906FB782573606800028339 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C906FB872573651D00028339 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		C906FB452573606300028339 = {
 			isa = PBXGroup;
 			children = (
+				C906FB872573651D00028339 /* .gitignore */,
 				C906FB502573606400028339 /* LitterPink */,
 				C906FB6A2573606800028339 /* LitterPinkTests */,
 				C906FB752573606800028339 /* LitterPinkUITests */,
@@ -234,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C906FB882573651D00028339 /* .gitignore in Resources */,
 				C906FB612573606800028339 /* LaunchScreen.storyboard in Resources */,
 				C906FB5E2573606800028339 /* Assets.xcassets in Resources */,
 				C906FB592573606400028339 /* Main.storyboard in Resources */,
